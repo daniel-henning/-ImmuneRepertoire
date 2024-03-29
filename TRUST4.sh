@@ -5,6 +5,6 @@ run-trust4 \
 -t 8 \
 -f /data/Apps/TRUST4/hg38_bcrtcr.fa \
 --ref /data/Apps/TRUST4/human_IMGT+C.fa \
---repseq \ #如果是RNA-seq数据这个参数去掉即可
+--repseq \
 -o /data/work/TCR-Qiao/test/SRR20751886
 
